@@ -1,0 +1,9 @@
+*.zip
+__pycache__/
+*.pyc
+.env
+.provisioned
+.mcp.json
+CLAUDE.md
+FLYWHEEL_PRIMER.md
+bin/
